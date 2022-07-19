@@ -14,7 +14,7 @@ func main() {
 	for _, f := range files {
 		fmt.Println(f.Name())
 		if f.Name() == "main.go" {
-
+			continue
 		} else {
 			start(f.Name())
 		}

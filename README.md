@@ -6,6 +6,6 @@ This project aims to corrupt the data of all files in a defined folder (behind s
 
 This code will generate a binary file to execute wherever and whenever you want:
 
-````shell
+```shell
 go build ./src/main.go
 ```

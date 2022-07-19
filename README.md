@@ -21,4 +21,4 @@ go build ../src/main.go
 ./main # Or ./main.exe
 ```
 
-Then you will be able to see how the internal data was removed
+Then you will be able to see how the internal data was removed.
